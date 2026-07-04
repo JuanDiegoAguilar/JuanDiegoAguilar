@@ -112,57 +112,5 @@ languages: ["Spanish (native)", "English (B2)"]
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                        GITHUB STATS                            -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JuanDiegoAguilar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
-<img height="165" src="https://streak-stats.demolab.com?user=JuanDiegoAguilar&theme=tokyonight&hide_border=true" alt="streak" />
-
-<br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDiegoAguilar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=JuanDiegoAguilar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="trophies" />
-
-</div>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                       ACTIVITY GRAPH                           -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JuanDiegoAguilar&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="activity graph" />
-</div>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                            FOOTER                              -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### 💬 Let's connect!
-
-<a href="https://www.linkedin.com/in/jdaguilarangel/">
-  <img src="https://img.shields.io/badge/Reach%20me%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-</a>
-
-<br/><br/>
-
-<i>“Rescatar sistemas críticos y convertirlos en arquitecturas limpias y estables.”</i>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,20,24&height=120&section=footer" alt="footer" />
 
 </div>
